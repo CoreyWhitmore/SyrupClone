@@ -1,0 +1,40 @@
+.hero{
+    background-image: url(./HeroImage.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+}
+
+.link-1{
+    background-image: url(//placehold.it/100x100/);
+}
+
+.link-2{
+    background-image: url(//placehold.it/100x100/);
+}
+
+.link-3{
+    background-image: url(//placehold.it/100x100/);
+}
+
+.center-image{
+    padding: .5rem 50%;
+}
+
+h1{
+    font-size: 40pt;
+}
+
+.p-large{
+    padding: 10%;
+}
+
+.card{
+    border: none;
+}
+
+@media screen and (max-width: 767px) {
+  .footer-item {
+    text-align: center;
+  }
+}
